@@ -1,0 +1,13 @@
+name = "Modpack Server Trm"
+author = "Tifeko"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f4d156c3154027e0f1556d01bba86f15c90490b9e96078a3f9cb6f65d6a8d4f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
