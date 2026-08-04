@@ -11,11 +11,6 @@ hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
 metafile = true
 
 [[files]]
-file = "mods/backport-copper-age.pw.toml"
-hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "b4259c4791ae275da76a9de81c91567bad2e11bf0a958212351b4998b05f47fb"
 metafile = true
