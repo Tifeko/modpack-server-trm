@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "168c06c6b84961c4b83529e79dc4216ea52a6d7e6896256459711846734b548b"
+hash = "12fc8901f184c83a9f44be906c3e4d4c7db7c2ac478734461742c4b810429ab0"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "50350942b9bc679f92d1164b2360c5b10860c1ce819cd8b1d9a600fc1432ff47"
+hash = "26723f97da0c15aaa5928d1888a2c8d200dcc28121795943db644f6136221168"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "58ae168e3f79437873200bc81f725c130f1a2fb358d33d15550f843d550df48c"
+hash = "f1461fda4f3d1c8d86f7d8109a6d5f414c2381533ee84470105c69d8e4563608"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/mac-input-fixes-neoforged.pw.toml"
-hash = "8d278ffc4ca20708d1bb459a122de2bf0db5933717db72fdb70db94e58e799de"
+hash = "a5ac0b98bf38703c5a36bd19996d50b96d174babeccdbb96545a1dbfe22bedd2"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "4577c18be8bb2e6142c90de7b68d97e361c88a04cac0e9485eaffeb84a4991bf"
+hash = "9bcd9b4664636c42f88d88c5f193d9632c7bfaedd41f8b1e24819a77b060d7b9"
 metafile = true
 
 [[files]]
