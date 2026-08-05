@@ -11,11 +11,6 @@ hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "b4259c4791ae275da76a9de81c91567bad2e11bf0a958212351b4998b05f47fb"
 metafile = true
