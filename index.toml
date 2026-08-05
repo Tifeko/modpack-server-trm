@@ -6,8 +6,18 @@ hash = "168c06c6b84961c4b83529e79dc4216ea52a6d7e6896256459711846734b548b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "50350942b9bc679f92d1164b2360c5b10860c1ce819cd8b1d9a600fc1432ff47"
+metafile = true
+
+[[files]]
+file = "mods/hey-wiki.pw.toml"
+hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
 
 [[files]]
