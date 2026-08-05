@@ -2,6 +2,9 @@ name = "Just Enough Items (JEI)"
 filename = "jei-1.21.1-neoforge-19.43.0.393.jar"
 side = "both"
 
+[option]
+optional = trueß
+
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Y16jFgP5/jei-1.21.1-neoforge-19.43.0.393.jar"
 hash-format = "sha512"
