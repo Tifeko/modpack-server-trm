@@ -76,6 +76,16 @@ hash = "26723f97da0c15aaa5928d1888a2c8d200dcc28121795943db644f6136221168"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+metafile = true
+
+[[files]]
 file = "mods/hey-wiki.pw.toml"
 hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
