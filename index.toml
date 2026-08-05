@@ -111,6 +111,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/mac-input-fixes-neoforged.pw.toml"
+hash = "8d278ffc4ca20708d1bb459a122de2bf0db5933717db72fdb70db94e58e799de"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4577c18be8bb2e6142c90de7b68d97e361c88a04cac0e9485eaffeb84a4991bf"
 metafile = true
