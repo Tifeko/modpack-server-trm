@@ -11,16 +11,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
-metafile = true
-
-[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
 metafile = true
@@ -83,16 +73,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "26723f97da0c15aaa5928d1888a2c8d200dcc28121795943db644f6136221168"
-metafile = true
-
-[[files]]
-file = "mods/hey-wiki.pw.toml"
-hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
-metafile = true
-
-[[files]]
-file = "mods/hey-wiki.pw.toml"
-hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
 
 [[files]]
