@@ -46,6 +46,11 @@ hash = "28de88d9d3f7392b4c22c2600d4cb02d775a54fe13a6e0a6d13b1bfd56f78789"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "26723f97da0c15aaa5928d1888a2c8d200dcc28121795943db644f6136221168"
+metafile = true
+
+[[files]]
+file = "mods/fullbright-forge.pw.toml"
+hash = "e37ffa59d558ecf9b16e372b117bfff0a90b329c7267875b653d30e3c7855bbd"
 metafile = true
 
 [[files]]
