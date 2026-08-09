@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jade/plugins.json"
+hash = "bb475be089e154481cdfa0cd73a09d2470783fb630b4f6f240c8a45c83ca0f92"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "12fc8901f184c83a9f44be906c3e4d4c7db7c2ac478734461742c4b810429ab0"
 metafile = true
@@ -26,6 +30,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "b4259c4791ae275da76a9de81c91567bad2e11bf0a958212351b4998b05f47fb"
 metafile = true
@@ -43,6 +52,16 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "28de88d9d3f7392b4c22c2600d4cb02d775a54fe13a6e0a6d13b1bfd56f78789"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
 metafile = true
 
 [[files]]
@@ -106,6 +125,11 @@ hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "f1461fda4f3d1c8d86f7d8109a6d5f414c2381533ee84470105c69d8e4563608"
 metafile = true
@@ -153,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
