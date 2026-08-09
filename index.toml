@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/distraction_free_recipes-client.toml"
+hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
+
+[[files]]
+file = "config/emi.css"
+hash = "93c30611dcb4c47c727633c50a520dccb84fe5230d11ae79d4becdc88936501b"
+
+[[files]]
 file = "config/jade/plugins.json"
 hash = "bb475be089e154481cdfa0cd73a09d2470783fb630b4f6f240c8a45c83ca0f92"
 
@@ -90,8 +98,18 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
@@ -107,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/fullbright-forge.pw.toml"
 hash = "e37ffa59d558ecf9b16e372b117bfff0a90b329c7267875b653d30e3c7855bbd"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -136,7 +159,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "de2cc54658d1fd0ec69b548ed58307c23d191acfd551f36c0a6721e96eca17ab"
+hash = "17014a330541046f8c1437dbeec14128c3faeec64ddbb24586ffd08371ddd2ca"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
@@ -217,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "b84f0cf683408471e6f78702bc9ade807345db9f59b748bb1312cc3498b01380"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
