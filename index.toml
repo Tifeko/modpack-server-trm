@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_submarine-common.toml"
+hash = "9311044f17fdb28550e18afb0bc5f76723e77ff89c37f56667ccf84b73be1c24"
+
+[[files]]
+file = "config/create_submarine_client_state.json"
+hash = "08b6e82ddd47db0d09dbbd7bebd4c0bc2a013ea2a1dc80e85ae28a19827fa374"
+
+[[files]]
 file = "config/distraction_free_recipes-client.toml"
 hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
 
@@ -55,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
 metafile = true
 
 [[files]]
@@ -125,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/flags-that-represent.pw.toml"
+hash = "c5f5a1d59b11c0ac9cc5e110585e147d616bb8fa5cbbeaf8568499c72c7ddafb"
 metafile = true
 
 [[files]]

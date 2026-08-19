@@ -1,0 +1,13 @@
+name = "Flags That Represent"
+filename = "flags_that_represent-10.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIyTCev5/versions/OUe7O8Gl/flags_that_represent-10.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1219fe5b0d099e21f095ef6e4862be386f2bbb72e62608c73b80c6b0f07c825d63371a9a27a8995d6c10da32e2f13b89b62249cacba69a8345fc683bf54cc88a"
+
+[update]
+[update.modrinth]
+mod-id = "MIyTCev5"
+version = "OUe7O8Gl"
