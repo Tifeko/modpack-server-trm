@@ -1,0 +1,13 @@
+name = "Create: Missions"
+filename = "missions-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KN33kvHF/versions/blEPH5d1/missions-0.5.2.jar"
+hash-format = "sha512"
+hash = "239d2c0a4d44a4ff58b4947b09554cf654e957ccf4f1c3647174e3e74a4de59c331ba041606790281d85f925d34dc5f04f69caa7fa1671f41b15b19d39a7705b"
+
+[update]
+[update.modrinth]
+mod-id = "KN33kvHF"
+version = "blEPH5d1"

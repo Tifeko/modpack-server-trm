@@ -29,6 +29,18 @@ file = "config/jade/plugins.json"
 hash = "bb475be089e154481cdfa0cd73a09d2470783fb630b4f6f240c8a45c83ca0f92"
 
 [[files]]
+file = "config/missions/config.json"
+hash = "a96fa221b8999f01342a197d2e6f19713f817c7421c7b449a434daf497102e30"
+
+[[files]]
+file = "config/missions/currency.json"
+hash = "fb35238cd0633f6719bd49841318cf37d54a8cb0b3c55ab7b0cd29c534a2a828"
+
+[[files]]
+file = "config/missions/missions.json"
+hash = "34f07e482148f447b0fc8f1c1287b243852d0c9f4aaf222c9f365f4750bf3d7e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -51,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "7472a61fdbcc9348a84ad15d66df148a6ab07d53a7ddb379900e2abfe83163d6"
 metafile = true
 
 [[files]]
@@ -131,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
 metafile = true
 
 [[files]]
@@ -219,6 +241,16 @@ hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
 
 [[files]]
+file = "mods/iris-veil-compat.pw.toml"
+hash = "69f9051c61c05546a2bf008654149a101814842bc2bf384df5c0ee0d64301ccd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
@@ -269,6 +301,11 @@ hash = "a5ac0b98bf38703c5a36bd19996d50b96d174babeccdbb96545a1dbfe22bedd2"
 metafile = true
 
 [[files]]
+file = "mods/missions.pw.toml"
+hash = "3920f22408952120dedc5c503bc5cd18113157f48e08c2497aad5b4c18d70b4c"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9bcd9b4664636c42f88d88c5f193d9632c7bfaedd41f8b1e24819a77b060d7b9"
 metafile = true
@@ -286,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
@@ -371,4 +413,24 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
