@@ -11,4 +11,8 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: cd ${{ github.workspace }}
-      - run: packwiz modrinth export
+      - run: packwiz modrinth export -o modpack.mrpack
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          path: ${{github.workspace }}/modpack.mrpack
