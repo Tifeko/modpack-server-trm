@@ -1,5 +1,5 @@
 name: Packwiz modrinth Export & Release
-on: [push, workflow-dispatch]
+on: [push, workflow_dispatch]
 jobs:
   export-to-modrinth:
     runs-on: ubuntu-latest
