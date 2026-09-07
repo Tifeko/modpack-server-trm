@@ -7,7 +7,7 @@ jobs:
       - run: wget "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip"
       - run: unzip "Linux 64-bit x86.zip"
       - run: chmod +x packwiz
-      - run: mv packwiz /usr/bin/
+      - run: sudo mv packwiz /usr/bin/
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: cd ${{ github.workspace }}
