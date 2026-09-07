@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/packwiz-modrinth-export.yml"
+hash = "2a34ab7eb95feff352cf1049e4b0e62b54f016410aea73eaff0fe6ddcbc5c85c"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "e56e9f7b5721fc7e2a8a638a74efcb57e18ca5d5cbb337a487293a7b0020edea"
 
@@ -141,6 +145,11 @@ hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
+metafile = true
+
+[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
@@ -208,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/flags-that-represent.pw.toml"
 hash = "c5f5a1d59b11c0ac9cc5e110585e147d616bb8fa5cbbeaf8568499c72c7ddafb"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "243b56a11b12e1b582edf8616f75a9406fcf892d2cd036a2c8d4ccfdc132d159"
 metafile = true
 
 [[files]]
@@ -298,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/mac-input-fixes-neoforged.pw.toml"
 hash = "a5ac0b98bf38703c5a36bd19996d50b96d174babeccdbb96545a1dbfe22bedd2"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
