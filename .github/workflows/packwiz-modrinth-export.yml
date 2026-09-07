@@ -35,3 +35,4 @@ jobs:
           footer_title: "Changelog"
           reduce_headings: true
           release_name: ${{ github.run_id }}
+          release_html_url: "https://github.com/Tifeko/modpack-server-trm/releases/tag/${{ github.run_id }}"
