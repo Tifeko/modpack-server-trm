@@ -16,3 +16,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           path: ${{github.workspace }}/modpack.mrpack
+      - name: Release
+        uses: softprops/action-gh-release@v3
+        with:
+          files: ${{github.workspace }}/modpack.mrpack
