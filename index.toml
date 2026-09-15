@@ -95,6 +95,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/coasters-magnetized.pw.toml"
+hash = "4b6d93953993eaa3fd1df4c4c1b32c602840cb23bf830ac2658ed7d89547c559"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
