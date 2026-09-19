@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "243b56a11b12e1b582edf8616f75a9406fcf892d2cd036a2c8d4ccfdc132d159"
+hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
 metafile = true
 
 [[files]]
