@@ -1,6 +1,7 @@
 name = "Forgematica"
 filename = "forgematica-0.4.1+mc1.21.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/bNQ9lJbg/forgematica-0.4.1%2Bmc1.21.1.jar"
