@@ -85,6 +85,11 @@ hash = "fb4f9d378f107ee888642a25e9d21b40e5ae2401bf2380c749a6fdcdb5923a71"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "60fdfdb796c24a047c7283042fb51d0c3937a4ba745c2353cf9a5f73ed24eca5"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -225,6 +230,11 @@ hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "72bc73806faa80ca0a0d0c93cb78b898bdb03b0874cec92d5e1c7aadc489fd01"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
@@ -282,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/forgematica.pw.toml"
 hash = "7fb1a5f8518bc25ea42d36b4bb1535c95e1538875816998bd2a68f0b6b1411fd"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -350,6 +365,11 @@ hash = "2a740b39e014011fa33d9e169a4ded38d68dd8da6f244a17a4df4fd38c865613"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "5b21ffe8e89b5b31876365b950b2e44fe6d51f8e3d6d3f8c639174ed4f9f8c9c"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
@@ -387,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
+metafile = true
+
+[[files]]
+file = "mods/minecraftcapes.pw.toml"
+hash = "96933fec5ca2ec89efb4ddb8b23c6a2ea2c6bb7d327a6287d4eef0227af42108"
 metafile = true
 
 [[files]]
@@ -455,6 +480,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/servuxforged.pw.toml"
+hash = "8d8adf5d3ed0d4e9f8a07864f385c8749f63f0df594e92109e3783cf152371dc"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "fdf54cb5c8f69e6e0fab179eb5cf47ffaba89ce6e1c7e4a30f45460f7f4abc4c"
 metafile = true
@@ -510,6 +540,11 @@ hash = "1f504618f369b7e151045c08a46339f4afa912de4288f895df210e3a77076744"
 metafile = true
 
 [[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
@@ -517,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ddea9e5a57fca3fff29f8a43df3fc4ba276ae25f63a3aaa3ddfeaae33381c21b"
 metafile = true
 
 [[files]]
