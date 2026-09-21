@@ -370,6 +370,11 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
+file = "mods/let-them-talk.pw.toml"
+hash = "ca136eae75ffa54ae43b7b8fd5e4cf5c1eb9fab05eef54b4d99972192045126f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
