@@ -1,6 +1,7 @@
 name = "Flags That Represent"
 filename = "flags_that_represent-10.2.0-neoforge-1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MIyTCev5/versions/XceX9aVp/flags_that_represent-10.2.0-neoforge-1.21.1.jar"
