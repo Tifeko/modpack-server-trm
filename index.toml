@@ -45,6 +45,10 @@ file = "config/missions/missions.json"
 hash = "34f07e482148f447b0fc8f1c1287b243852d0c9f4aaf222c9f365f4750bf3d7e"
 
 [[files]]
+file = "config/simplehats.json"
+hash = "372eb7004055482543de27355d50246cfcba7fb1a610fafedb87c2799ce9797e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
