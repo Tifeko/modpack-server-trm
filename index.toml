@@ -9,6 +9,10 @@ file = "config/DistantHorizons.toml"
 hash = "e56e9f7b5721fc7e2a8a638a74efcb57e18ca5d5cbb337a487293a7b0020edea"
 
 [[files]]
+file = "config/create_submarine-client.toml"
+hash = "651fc0b7c19e2793661124f9e690f1c8561d80b320a1828a9a5982c7cf7a362c"
+
+[[files]]
 file = "config/create_submarine-common.toml"
 hash = "9311044f17fdb28550e18afb0bc5f76723e77ff89c37f56667ccf84b73be1c24"
 
@@ -465,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+hash = "3c65a8f21aaef8027725c78919c9df619487cff48e9a3b46c05bf301ad451ca7"
 metafile = true
 
 [[files]]
@@ -555,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+hash = "bbc4f79f62d0c9fc9d006ef25251b0f5687a8921f46a0799fa7e959c9bdd36c7"
 metafile = true
 
 [[files]]
