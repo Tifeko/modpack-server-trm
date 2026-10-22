@@ -348,6 +348,11 @@ hash = "63d76e8931c9b17a694ad1d5faf16d66c19958bf73681a9022914d8b7ccda4bb"
 metafile = true
 
 [[files]]
+file = "mods/indexor-ledger.pw.toml"
+hash = "53e057b1d66f05329d67eb91527d56afbe58a70276613281ee859e2a1e7d7679"
+metafile = true
+
+[[files]]
 file = "mods/iris-veil-compat.pw.toml"
 hash = "a485506e10aa312fe8786763a5a26a406ff3240541ecbdb7d4777d2efa1ceb40"
 metafile = true
@@ -525,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "960a56ecd60197601d3f32e37aa68284c77d01f88a27a63d210ebbf1afa4df27"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
 metafile = true
 
 [[files]]
