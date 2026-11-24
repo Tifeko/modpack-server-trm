@@ -98,6 +98,11 @@ hash = "54a071d93d9c3b396d3524b5ebd5913ba35c388e6f21e4065633fc5df21b512f"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
+metafile = true
+
+[[files]]
 file = "mods/bocchud.pw.toml"
 hash = "60fdfdb796c24a047c7283042fb51d0c3937a4ba745c2353cf9a5f73ed24eca5"
 metafile = true
